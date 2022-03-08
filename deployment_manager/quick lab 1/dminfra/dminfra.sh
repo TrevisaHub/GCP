@@ -1,0 +1,2 @@
+mkdir dminfra
+cd dminfra
