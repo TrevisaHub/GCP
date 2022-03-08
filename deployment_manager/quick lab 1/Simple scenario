@@ -1,0 +1,15 @@
+Simple scenario 
+
+Create a configuration for an auto mode network - global vpc (2 regions)
+
+Create a configuration for a firewall rule
+
+Create a template for VM instances
+
+Create and deploy a configuration
+
+Verify the deployment of a configuration
+
+
+
+
